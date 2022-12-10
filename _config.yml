@@ -1,0 +1,26 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Alpha
+email: youremailaddress@gmail.com
+description: The Jekyll version of the Alpha theme by HTML5 UP.
+baseurl: "/alpha-jekyll-theme" # the subpath of your site, e.g. /blog
+url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+
+# Logo settings
+logo-image-url:
+font-awesome-icon-logo:
+
+# Social settings
+github_username: andrewbanchich
+twitter_username: andrewbanchich
+facebook_URL:
+instagram_username:
+
+# Build settings
+markdown: kramdown
